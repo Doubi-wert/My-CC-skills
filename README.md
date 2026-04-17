@@ -1,3 +1,5 @@
+**English** | [简体中文](https://github.com/Doubi-wert/My-CC-skills/blob/main/readme_zh.md)
+
 # My CC Skills
 
 **[NOTICE] This README is fully AI-generated.**
